@@ -1,0 +1,94 @@
+c:\users\home\documents\visual studio 2012\Projects\WebApplication2\WebApplication2\bin\WebApplication2.dll
+c:\users\home\documents\visual studio 2012\Projects\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+c:\users\home\documents\visual studio 2012\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+c:\users\home\documents\visual studio 2012\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+c:\users\home\documents\visual studio 2012\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\akhilesh\Desktop\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\akhilesh\Desktop\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\akhilesh\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\akhilesh\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\akhilesh\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\Home\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\Home\Desktop\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\Home\Desktop\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\Home\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\akhilesh\Desktop\#CMS\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\akhilesh\Desktop\#CMS\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\akhilesh\Desktop\#CMS\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\akhilesh\Desktop\#CMS\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\akhilesh\Desktop\#CMS\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\NIKHIL\Desktop\#CMS\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\NIKHIL\Desktop\#CMS\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\NIKHIL\Desktop\#CMS\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\NIKHIL\Desktop\#CMS\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\NIKHIL\Desktop\#CMS\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+I:\#CMS(Nikhil)\WebApplication2\WebApplication2\bin\WebApplication2.dll
+I:\#CMS(Nikhil)\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+I:\#CMS(Nikhil)\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+I:\#CMS(Nikhil)\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+I:\#CMS(Nikhil)\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\akhilesh\Desktop\#CMS(Nikhil)\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\akhilesh\Desktop\#CMS(Nikhil)\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\akhilesh\Desktop\#CMS(Nikhil)\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\akhilesh\Desktop\#CMS(Nikhil)\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\akhilesh\Desktop\#CMS(Nikhil)\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\akhilesh\Desktop\#CMS(Nikhil2)\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\akhilesh\Desktop\#CMS(Nikhil2)\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\akhilesh\Desktop\#CMS(Nikhil2)\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\akhilesh\Desktop\#CMS(Nikhil2)\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\akhilesh\Desktop\#CMS(Nikhil2)\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+F:\#PROGNOSIS_SYSTEM\symptom_prognosis\Desktop\PROGNOSIS\WebApplication2\bin\WebApplication2.dll.config
+F:\#PROGNOSIS_SYSTEM\symptom_prognosis\Desktop\PROGNOSIS\WebApplication2\bin\WebApplication2.dll
+F:\#PROGNOSIS_SYSTEM\symptom_prognosis\Desktop\PROGNOSIS\WebApplication2\bin\WebApplication2.pdb
+F:\#PROGNOSIS_SYSTEM\symptom_prognosis\Desktop\PROGNOSIS\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+F:\#PROGNOSIS_SYSTEM\symptom_prognosis\Desktop\PROGNOSIS\WebApplication2\obj\Debug\WebApplication2.Properties.Resources.resources
+F:\#PROGNOSIS_SYSTEM\symptom_prognosis\Desktop\PROGNOSIS\WebApplication2\obj\Debug\WebApplication2.csproj.GenerateResource.Cache
+F:\#PROGNOSIS_SYSTEM\symptom_prognosis\Desktop\PROGNOSIS\WebApplication2\obj\Debug\WebApplication2.dll
+F:\#PROGNOSIS_SYSTEM\symptom_prognosis\Desktop\PROGNOSIS\WebApplication2\obj\Debug\WebApplication2.pdb
+E:\College\4th Year\8 Sem\#PROJECT\PROGNOSIS\WebApplication2\bin\WebApplication2.dll.config
+E:\College\4th Year\8 Sem\#PROJECT\PROGNOSIS\WebApplication2\bin\WebApplication2.dll
+E:\College\4th Year\8 Sem\#PROJECT\PROGNOSIS\WebApplication2\bin\WebApplication2.pdb
+E:\College\4th Year\8 Sem\#PROJECT\PROGNOSIS\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+E:\College\4th Year\8 Sem\#PROJECT\PROGNOSIS\WebApplication2\obj\Debug\WebApplication2.Properties.Resources.resources
+E:\College\4th Year\8 Sem\#PROJECT\PROGNOSIS\WebApplication2\obj\Debug\WebApplication2.csproj.GenerateResource.Cache
+E:\College\4th Year\8 Sem\#PROJECT\PROGNOSIS\WebApplication2\obj\Debug\WebApplication2.dll
+E:\College\4th Year\8 Sem\#PROJECT\PROGNOSIS\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\User\Desktop\PROGNOSIS\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\User\Desktop\PROGNOSIS\WebApplication2\bin\WebApplication2.dll
+C:\Users\User\Desktop\PROGNOSIS\WebApplication2\bin\WebApplication2.pdb
+C:\Users\User\Desktop\PROGNOSIS\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\PROGNOSIS\WebApplication2\obj\Debug\WebApplication2.Properties.Resources.resources
+C:\Users\User\Desktop\PROGNOSIS\WebApplication2\obj\Debug\WebApplication2.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\PROGNOSIS\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\User\Desktop\PROGNOSIS\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\User\Downloads\PROGNOSIS\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\User\Downloads\PROGNOSIS\WebApplication2\bin\WebApplication2.dll
+C:\Users\User\Downloads\PROGNOSIS\WebApplication2\bin\WebApplication2.pdb
+C:\Users\User\Downloads\PROGNOSIS\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\PROGNOSIS\WebApplication2\obj\Debug\WebApplication2.Properties.Resources.resources
+C:\Users\User\Downloads\PROGNOSIS\WebApplication2\obj\Debug\WebApplication2.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\PROGNOSIS\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\User\Downloads\PROGNOSIS\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\MRUNMAYEE\Documents\Visual Studio 2015\Projects\PROGNOSIS- new\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\MRUNMAYEE\Documents\Visual Studio 2015\Projects\PROGNOSIS- new\WebApplication2\bin\WebApplication2.dll
+C:\Users\MRUNMAYEE\Documents\Visual Studio 2015\Projects\PROGNOSIS- new\WebApplication2\bin\WebApplication2.pdb
+C:\Users\MRUNMAYEE\Documents\Visual Studio 2015\Projects\PROGNOSIS- new\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\MRUNMAYEE\Documents\Visual Studio 2015\Projects\PROGNOSIS- new\WebApplication2\obj\Debug\WebApplication2.Properties.Resources.resources
+C:\Users\MRUNMAYEE\Documents\Visual Studio 2015\Projects\PROGNOSIS- new\WebApplication2\obj\Debug\WebApplication2.csproj.GenerateResource.Cache
+C:\Users\MRUNMAYEE\Documents\Visual Studio 2015\Projects\PROGNOSIS- new\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\MRUNMAYEE\Documents\Visual Studio 2015\Projects\PROGNOSIS- new\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\K Jagdale\Documents\Visual Studio 2015\Projects\PROGNOSIS- new\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\K Jagdale\Documents\Visual Studio 2015\Projects\PROGNOSIS- new\WebApplication2\obj\Debug\WebApplication2.Properties.Resources.resources
+C:\Users\K Jagdale\Documents\Visual Studio 2015\Projects\PROGNOSIS- new\WebApplication2\obj\Debug\WebApplication2.csproj.GenerateResource.Cache
+C:\Users\K Jagdale\Documents\Visual Studio 2015\Projects\PROGNOSIS- new\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\K Jagdale\Documents\Visual Studio 2015\Projects\PROGNOSIS- new\WebApplication2\bin\WebApplication2.dll
+C:\Users\K Jagdale\Documents\Visual Studio 2015\Projects\PROGNOSIS- new\WebApplication2\bin\WebApplication2.pdb
+C:\Users\K Jagdale\Documents\Visual Studio 2015\Projects\PROGNOSIS- new\WebApplication2\bin\DynamicInterop.dll
+C:\Users\K Jagdale\Documents\Visual Studio 2015\Projects\PROGNOSIS- new\WebApplication2\bin\RDotNet.dll
+C:\Users\K Jagdale\Documents\Visual Studio 2015\Projects\PROGNOSIS- new\WebApplication2\bin\RDotNet.NativeLibrary.dll
+C:\Users\K Jagdale\Documents\Visual Studio 2015\Projects\PROGNOSIS- new\WebApplication2\bin\DynamicInterop.xml
+C:\Users\K Jagdale\Documents\Visual Studio 2015\Projects\PROGNOSIS- new\WebApplication2\bin\RDotNet.xml
+C:\Users\K Jagdale\Documents\Visual Studio 2015\Projects\PROGNOSIS- new\WebApplication2\bin\RDotNet.NativeLibrary.xml
+C:\Users\K Jagdale\Documents\Visual Studio 2015\Projects\PROGNOSIS- new\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\K Jagdale\Documents\Visual Studio 2015\Projects\PROGNOSIS- new\WebApplication2\obj\Debug\WebApplication2.pdb
